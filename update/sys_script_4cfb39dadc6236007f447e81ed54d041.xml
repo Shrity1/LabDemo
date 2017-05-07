@@ -31,24 +31,26 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	// Add your code here
-	current.short_description = "test";
+	current.short_description = "test2";
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-07 21:28:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4cfb39dadc6236007f447e81ed54d041</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>DemoBR</sys_name>
         <sys_overrides/>
         <sys_package display_value="Demo_x" source="x_snc_demo_x">00eb75dadc6236007f447e81ed54d0d2</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Demo_x">00eb75dadc6236007f447e81ed54d0d2</sys_scope>
         <sys_update_name>sys_script_4cfb39dadc6236007f447e81ed54d041</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-07 21:38:36</sys_updated_on>
+        <sys_updated_on>2017-05-07 21:43:23</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
